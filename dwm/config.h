@@ -56,7 +56,7 @@ static const Layout layouts[] = {
 static char dmenumon[2]               = "0";
 static const char *dmenucmd[] = {
     "rofi", "-show", "drun",
-    "-theme", "/home/maple/rofi-themes-collection/themes/squared-nord.rasi",
+    "-theme", "/home/zenny/rofi/themes/themes/squared-nord.rasi",
     NULL
 };
 
